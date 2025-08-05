@@ -1,17 +1,28 @@
 <img src="https://raw.githubusercontent.com/SirkoBot007/SirkoBot007/main/FOTO%20BANNER%20GITHUB%201500%20X%20500.png" alt="Banner del Imperio IA" width="100%" />
 
-# 👑 SirkoBot007
+<<< 👑 APPORIUM STORE 👑 >>>
 
-👁️‍🗨️ **Building the most authentic AI-powered app empire.**  
-Automation. Vision. Code.
+Construyendo el imperio de apps impulsadas por IA  
+Automatización | Visión | Código
 
-🚀 Dreaming, building and launching AI-powered apps that work for you — even while you sleep.
+---
 
-🔧 Currently working on:
-- OnirIA — Dream Interpreter powered by AI 🧠💭
-- Autonomous SEO landing pages for lead generation
+🚀 Proyectos destacados  
+- 🧠 **OnirIA** - Intérprete de sueños con IA  
+- ⚙️ Sistemas autónomos para SEO y generación de landing pages  
+- 🤖 Automatización avanzada y desarrollo sin código  
 
-🧠 Skills: 
-`AI apps` · `Automation` · `No-code tools` · `Frontend` · `Prompt Engineering` · `Systems`
+---
 
-📩 Contact: [Coming soon...]
+🛠️ Habilidades y Tecnologías  
+`IA apps` · `Automatización` · `No-code` · `Frontend` · `Prompt Engineering` · `Sistemas`
+
+---
+
+🔒 Perfil Misterioso  
+Sin nombre. Sin contacto. Sin metadatos.  
+No rastreable en la red.  
+Solo código. Solo resultados.  
+Error 403: Acceso Denegado.
+
+© 2025 APPORIUM. Hecho con ❤️ por Sirko-007 
