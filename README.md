@@ -17,12 +17,5 @@ Automatización | Visión | Código
 🛠️ Habilidades y Tecnologías  
 `IA apps` · `Automatización` · `No-code` · `Frontend` · `Prompt Engineering` · `Sistemas`
 
----
-
-🔒 Perfil Misterioso  
-Sin nombre. Sin contacto. Sin metadatos.  
-No rastreable en la red.  
-Solo código. Solo resultados.  
-Error 403: Acceso Denegado.
 
 © 2025 APPORIUM. Hecho con ❤️ por Sirko-007 
