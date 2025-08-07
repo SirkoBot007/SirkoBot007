@@ -1,21 +1,28 @@
 <img src="https://raw.githubusercontent.com/SirkoBot007/SirkoBot007/main/FOTO%20BANNER%20GITHUB%201500%20X%20500.png" alt="Banner del Imperio IA" width="100%" />
 
-<<< 👑 APPORIUM STORE 👑 >>>
 
-Construyendo el imperio de apps impulsadas por IA  
-Automatización | Visión | Código
 
----
+# Sirko007 / <<< 👑 APPORIUM STORE 👑 >>>
 
-🚀 Proyectos destacados  
-- 🧠 **OnirIA** - Intérprete de sueños con IA  
-- ⚙️ Sistemas autónomos para SEO y generación de landing pages  
-- 🤖 Automatización avanzada y desarrollo sin código  
+## Construyendo el futuro de las apps impulsadas por IA
+
+En APPORIUM, desarrollamos un ecosistema de aplicaciones que automatizan procesos, generan valor y simplifican la vida digital.  
+Apasionado por la innovación, la automatización y el diseño de sistemas escalables.
 
 ---
 
-🛠️ Habilidades y Tecnologías  
-`IA apps` · `Automatización` · `No-code` · `Frontend` · `Prompt Engineering` · `Sistemas`
+### 🚀 Proyectos destacados
 
+- **OnirIA** – Intérprete de sueños potenciado por IA.  
+- Sistemas autónomos para SEO y creación automática de landing pages.  
+- Automatización avanzada y desarrollo low-code/no-code.  
 
-© 2025 APPORIUM. Hecho con ❤️ por Sirko-007 
+---
+
+### 🛠️ Habilidades y tecnologías
+
+Inteligencia Artificial · Automatización · Desarrollo frontend · Ingeniería de prompts · Diseño de sistemas
+
+---
+
+© 2025 APPORIUM · Creado con dedicación por Sirko007
