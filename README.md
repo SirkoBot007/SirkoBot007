@@ -46,7 +46,7 @@ Creo **asistentes de IA personalizados** y **chatbots** que:
 
 ¿Tienes una pyme y quieres saber cómo la IA puede ayudarte?
 
-**✉️** albertolm822@gmail.com  
+**✉️** sirkokoloko007@gmail.com 
 **📱** +34 615 076 926 (WhatsApp)  
 **💼** [linkedin.com/in/alberto-landa-ai-consultant](https://linkedin.com/in/alberto-landa-ai-consultant)
 
