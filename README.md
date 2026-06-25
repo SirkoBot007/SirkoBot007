@@ -53,3 +53,10 @@ Creo **asistentes de IA personalizados** y **chatbots** que:
 ---
 
 <p align="center"><i>Construyendo el futuro digital de las pymes españolas, una automatización a la vez.</i></p>
+
+
+---
+
+## 🍀 Otros proyectos
+
+También soy el creador de **[CryptoLucky](https://cryptoluckyguia.com)** — un blog en español con guías honestas sobre BetFury y casinos con criptomonedas para Latinoamérica. Contenido +18 · Juego responsable.
